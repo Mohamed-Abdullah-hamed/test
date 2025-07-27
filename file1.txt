@@ -1,7 +1,5 @@
 hello world 1
 
 hello world from child2
-seconed from child2
-third from child2
-fourth from child2
+
 from main
